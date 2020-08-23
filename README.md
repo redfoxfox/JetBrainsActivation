@@ -2,6 +2,42 @@
 Agent.zip包含`.jar`与激活码，激活方法不在叙述。
 
 # 更新日志
+
+# 2020.08.24 凌晨更新
+明天就是七夕了啊，~~难道我在暗示我是单身的吗？？？~~
+
+终于找到了永久激活2020.2的方法，这里以WebStorm2020.2为例。
+
+## 更新激活步骤
+
+## 1 下载`jetbrains-agent.zip`
+
+首先下载`jetbrains-agent.zip`放在一个不会变动的位置。
+
+## 2 拖拽补丁
+拖拽补丁到项目窗口（如果是新的WebStorm点击试用后即可进入，如果是已打开项目的话关闭项目即可），会显示安装成功，如下图所示：
+
+![]("../2.img")
+
+## 3 添加参数
+重启后在参数中输入：
+
+```bash
+LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGXawLB4qswPOXYG7+ItDNUR/9UkLTUWlnHLX07hnR1USOrWIjTmbytcIKEdaI6x0RskyotuItj84xxoSBP/iRBW2EHpOc
+```
+
+![]("./img/2.img")
+
+![]("./img/3.img")
+
+## 4 查看效果
+
+![]("./img/4.img")
+
+![]("./img/5.img")
+
+~~这个就当是给程序员们的七夕礼物了2333333333333。~~
+
 # 2020.07.24 更新
 很遗憾由于补丁作者知了在2020年6月不再维护了补丁了，所以2020.1.3（含）以上的版本可能无法激活成功。
 有新的激活方法或补丁本人会及时更新，望周知。
