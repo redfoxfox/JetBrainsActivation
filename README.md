@@ -36,6 +36,12 @@ LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGX
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
 
+亲测`IDEA2020.2`与`PyCharm2020.2`生效：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/6.png)
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/7.png)
+
 ~~这个就当是给程序员们的七夕礼物了2333333333333。~~
 
 # 2020.07.24 更新
