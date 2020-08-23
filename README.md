@@ -8,7 +8,7 @@ Agent.zip包含`.jar`与激活码，激活方法不在叙述。
 
 终于找到了永久激活2020.2的方法，这里以WebStorm2020.2为例。
 
-## 更新激活步骤
+## 具体激活步骤
 
 ## 1 下载`jetbrains-agent.zip`
 
@@ -17,7 +17,7 @@ Agent.zip包含`.jar`与激活码，激活方法不在叙述。
 ## 2 拖拽补丁
 拖拽补丁到项目窗口（如果是新的WebStorm点击试用后即可进入，如果是已打开项目的话关闭项目即可），会显示安装成功，如下图所示：
 
-![]("../2.img")
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
 
 ## 3 添加参数
 重启后在参数中输入：
@@ -26,15 +26,15 @@ Agent.zip包含`.jar`与激活码，激活方法不在叙述。
 LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGXawLB4qswPOXYG7+ItDNUR/9UkLTUWlnHLX07hnR1USOrWIjTmbytcIKEdaI6x0RskyotuItj84xxoSBP/iRBW2EHpOc
 ```
 
-![]("./img/2.img")
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/2.png)
 
-![]("./img/3.img")
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
 ## 4 查看效果
 
-![]("./img/4.img")
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
-![]("./img/5.img")
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
 
 ~~这个就当是给程序员们的七夕礼物了2333333333333。~~
 
