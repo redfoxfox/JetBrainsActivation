@@ -1,4 +1,4 @@
-[中文](https://github.com/2293736867/JetBrainsActivation) | English
+[中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
 
 # 1 这是什么
 
@@ -6,7 +6,7 @@ JetBrains系列IDE的激活补丁。
 
 # 2 声明
 
-**学生只需要申请一个教育邮箱即可凭凭证免费激活。
+**学生只需要申请一个教育邮箱即可凭凭证免费激活。**
 
 **仅供个人开发学习使用，勿作商业用途。**
 
