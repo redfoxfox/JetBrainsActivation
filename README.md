@@ -2,7 +2,7 @@
 
 # 1 这是什么
 
-JetBrains系列IDE的激活补丁。
+`JetBrains`系列IDE的激活补丁。
 
 # 2 声明
 
@@ -12,18 +12,26 @@ JetBrains系列IDE的激活补丁。
 
 **请支持正版！！！**
 
-# 3 激活方法
+**请支持正版！！！**
 
-## 3.1 下载`jetbrains-agent.zip`
+**请支持正版！！！**
+
+# 3 支持的版本
+
+最新支持的版本为`2020.2`
+
+# 4 激活方法
+
+## 4.1 下载`jetbrains-agent.zip`
 
 首先下载`jetbrains-agent.zip`放在一个不会变动的位置。
 
-## 3.2 拖拽补丁
+## 4.2 拖拽补丁
 拖拽补丁到项目窗口（如果是新的WebStorm点击试用后即可进入，如果是已打开项目的话关闭项目即可），会显示安装成功，如下图所示：
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
 
-## 3.3 添加参数
+## 4.3 添加参数
 重启后在参数中输入：
 
 ```bash
@@ -34,7 +42,7 @@ LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGX
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
-## 3.4 查看效果
+## 4.4 查看效果
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
@@ -46,13 +54,13 @@ LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGX
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/7.png)
 
-# 4 其他补充
+# 5 其他补充
 
 本人并不会破解`JetBrains`家的产品，这里只是收集了互联网上面的资源供大家使用，希望大家有条件的话多多支持正版。
 
 另外由于目前最新的激活`2020.2`版本的补丁其实还是使用知了大神的补丁，该补丁能激活到2089年，只是激活方式与以往的方式不同，在安装时添加了安装参数，照目前的情况来看知了大神好像并不会更新补丁，因此该激活方法很可能到`2020.3`就失效，望周知。
 
-# 5 更新日志
+# 6 更新日志
 
 # 2020.09.02
 
