@@ -1,34 +1,29 @@
-# 1 这是什么？
+[中文](https://github.com/2293736867/JetBrainsActivation) | English
 
-JetBrains系列IDE激活。
+# 1 这是什么
+
+JetBrains系列IDE的激活补丁。
 
 # 2 声明
-学生只需要申请一个教育邮箱即可凭凭证免费激活。
 
-仅供个人开发学习使用，勿作商业用途。
+**学生只需要申请一个教育邮箱即可凭凭证免费激活。
 
-# 3 更新日志
+**仅供个人开发学习使用，勿作商业用途。**
 
-# 2020.08.29
-更新文档，估计需要2021年再更新了。
+**请支持正版！！！**
 
-# 2020.08.24 凌晨更新
-明天就是七夕了啊，~~难道我在暗示我是单身的吗？？？~~
+# 3 激活方法
 
-终于找到了永久激活2020.2的方法，这里以WebStorm2020.2为例。
-
-## 具体激活步骤
-
-## 1 下载`jetbrains-agent.zip`
+## 3.1 下载`jetbrains-agent.zip`
 
 首先下载`jetbrains-agent.zip`放在一个不会变动的位置。
 
-## 2 拖拽补丁
+## 3.2 拖拽补丁
 拖拽补丁到项目窗口（如果是新的WebStorm点击试用后即可进入，如果是已打开项目的话关闭项目即可），会显示安装成功，如下图所示：
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
 
-## 3 添加参数
+## 3.3 添加参数
 重启后在参数中输入：
 
 ```bash
@@ -39,7 +34,7 @@ LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGX
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
-## 4 查看效果
+## 3.4 查看效果
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
@@ -50,6 +45,25 @@ LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGX
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/6.png)
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/7.png)
+
+# 4 其他补充
+
+本人并不会破解`JetBrains`家的产品，这里只是收集了互联网上面的资源供大家使用，希望大家有条件的话多多支持正版。
+
+另外由于目前最新的激活`2020.2`版本的补丁其实还是使用知了大神的补丁，该补丁能激活到2089年，只是激活方式与以往的方式不同，在安装时添加了安装参数，照目前的情况来看知了大神好像并不会更新补丁，因此该激活方法很可能到`2020.3`就失效，望周知。
+
+# 5 更新日志
+
+# 2020.09.02
+
+更新文档说明。
+
+# 2020.08.29
+~~更新文档，估计需要2021年再更新了。~~
+
+# 2020.08.24 凌晨更新
+~~明天就是七夕了啊，难道我在暗示我是单身的吗？？？~~
+
 
 ~~这个就当是给程序员们的七夕礼物了2333333333333。~~
 
