@@ -16,7 +16,7 @@ Activation patch for `JetBrains` series IDE.
 
 # 3 Supported version
 
-The latest supported version is `2020.2`.
+The latest supported version is `2020.2.3`, tested at `10/09/2020`.
 
 # 4 How to avtivate
 
@@ -61,6 +61,10 @@ I don't know how to crack the products fo `JetBrains`, and just collect the reso
 In addition, the latest patch to activate version `2020.2` still uses `zhele`'s patch, which will take effect until 2089. But the activation method is different from the previous one, with adding installtion parameters during the installation. According to the current situation, `Zhele` does not seem to update the patch. Therefore, the activation method is likely to be invalid in version `2020.3` or later version. Please note that.
 
 # 6 Update log
+
+# Update 10/09/2020
+
+Fixed doc.
 
 # Update 09/02/2020
 
