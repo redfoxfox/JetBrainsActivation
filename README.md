@@ -1,40 +1,10 @@
 [中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
 
-# 1 激活方法
+# 1 这是什么
 
-**无。**
+`JetBrains`系列IDE的激活补丁。
 
-因为目前补丁暂时失效，经测试，目前最新的`2020.2.x`系列在输入安装参数后，还是会弹出如下界面：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
-
-
-# 2 目前采用的解决方案
-
-## 2.1 通过插件刷新试用期
-
-由于知了大神由于某些原因并不更新补丁`jetbrains-agent.zip`了，但是还在码云更新一个叫`ide-eval-resetter`的插件，通过安装该插件能重置`IDE`的试用期，也就是说，当30天的试用期满后，使用该插件重新计算试用期，这样就能再次使用30天，以此类推。
-
-## 2.2 安装方法
-
-[点击下载](https://gitee.com/pengzhile/ide-eval-resetter/releases)最新版的插件：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
-
-然后进入`IDE`中的插件页面选择从本地安装插件：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/2.png)
-
-选择下载的`jar`：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
-
-重启`IDE`后可以在`Help->Reset xxxx eval`中重置试用期，点击重置后，再次重启`IDE`可以看到恢复30天试用期的状态：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
-
-
-# 3 声明
+# 2 声明
 
 **学生只需要申请一个教育邮箱即可凭凭证免费激活。**
 
@@ -46,10 +16,62 @@
 
 **请支持正版！！！**
 
-# 4 更新日志
+# 3 补丁来源
+
+本人并不会破解`JetBrains`系列的产品，仅收集互联网上的资源供大家使用。
+
+补丁来源主要是知大的补丁，安装参数从网络上搜集而来。
+
+# 4 支持的版本
+
+`2020.10.28`最新测试，版本为`2020.2.3`。
+
+# 5 激活方法
+
+## 5.1 下载`jetbrains-agent-latest.zip`
+
+首先下载`jetbrains-agent-latest.zip`并将其放在一个不会变动的位置。
+
+## 5.2 拖拽补丁
+
+如果是新的`IDE`点击试用后即可进入项目窗口：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
+
+如果是已存在本地历史，选择`File->Close Project`关闭项目即可。
+
+接着把补丁拖拽到项目窗口：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/2.png)
+
+会显示安装成功。
+
+## 5.3 添加参数
+重启后在输入如下参数：
+
+```bash
+HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI
+```
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
+
+## 5.4 查看效果
+
+再次重启即可激活成功：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
+
+亲测`IDEA 2020.2.3`也生效：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
+
+# 6 更新日志
+
+# 2020.10.28
+更新安装参数以及补丁。
 
 # 2020.10.27
-更新补丁失效+插件。
+~~补丁失效通知+临时插件。~~
 
 # 2020.10.09
 
