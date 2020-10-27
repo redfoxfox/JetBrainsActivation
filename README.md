@@ -6,7 +6,8 @@
 
 因为目前补丁暂时失效，经测试，目前最新的`2020.2.x`系列在输入安装参数后，还是会弹出如下界面：
 
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/8.png)
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
+
 
 # 2 目前采用的解决方案
 
@@ -18,11 +19,19 @@
 
 [点击下载](https://gitee.com/pengzhile/ide-eval-resetter/releases)最新版的插件：
 
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
+
 然后进入`IDE`中的插件页面选择从本地安装插件：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/2.png)
 
 选择下载的`jar`：
 
-重启`IDE`后可以在`Help->Rest xxxx eval`中重置试用期。
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
+
+重启`IDE`后可以在`Help->Rest xxxx eval`中重置试用期，点击重置后，再次重启`IDE`可以看到恢复30天试用期的状态：
+
+![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
 
 # 3 声明
@@ -37,7 +46,7 @@
 
 **请支持正版！！！**
 
-# 5 更新日志
+# 4 更新日志
 
 # 2020.10.27
 更新补丁失效+插件。
