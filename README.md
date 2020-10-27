@@ -1,20 +1,31 @@
 [中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
-# 紧急通知！！！
-# 补丁暂时失效！！！
-# 补丁暂时失效！！！
-# 补丁暂时失效！！！
 
-目前补丁出现了一些问题，经过测试发现`2020.2.x`系列输入安装参数之后，还是会弹出如下界面：
+# 1 激活方法
+
+**无。**
+
+因为目前补丁暂时失效，经测试，目前最新的`2020.2.x`系列在输入安装参数后，还是会弹出如下界面：
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/8.png)
 
-# 找到解决方法会马上更新！！！
+# 2 目前采用的解决方案
 
-# 1 这是什么
+## 2.1 通过插件刷新试用期
 
-`JetBrains`系列IDE的激活补丁。
+由于知了大神由于某些原因并不更新补丁`jetbrains-agent.zip`了，但是还在码云更新一个叫`ide-eval-resetter`的插件，通过安装该插件能重置`IDE`的试用期，也就是说，当30天的试用期满后，使用该插件重新计算试用期，这样就能再次使用30天，以此类推。
 
-# 2 声明
+## 2.2 安装方法
+
+[点击下载](https://gitee.com/pengzhile/ide-eval-resetter/releases)最新版的插件：
+
+然后进入`IDE`中的插件页面选择从本地安装插件：
+
+选择下载的`jar`：
+
+重启`IDE`后可以在`Help->Rest xxxx eval`中重置试用期。
+
+
+# 3 声明
 
 **学生只需要申请一个教育邮箱即可凭凭证免费激活。**
 
@@ -26,54 +37,10 @@
 
 **请支持正版！！！**
 
-# 3 支持的版本
-
-~~`2020.10.09`最新测试，版本为`2020.2.3`。~~
-
-# 4 激活方法
-
-## 4.1 下载`jetbrains-agent.zip`
-
-首先下载`jetbrains-agent.zip`放在一个不会变动的位置。
-
-## 4.2 拖拽补丁
-拖拽补丁到项目窗口（如果是新的WebStorm点击试用后即可进入，如果是已打开项目的话关闭项目即可），会显示安装成功，如下图所示：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/1.png)
-
-## 4.3 添加参数
-重启后在参数中输入：
-
-```bash
-LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGXawLB4qswPOXYG7+ItDNUR/9UkLTUWlnHLX07hnR1USOrWIjTmbytcIKEdaI6x0RskyotuItj84xxoSBP/iRBW2EHpOc
-```
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/2.png)
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
-
-## 4.4 查看效果
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
-
-亲测`IDEA2020.2`与`PyCharm2020.2`生效：
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/6.png)
-
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/7.png)
-
-# 5 其他补充
-
-本人并不会破解`JetBrains`家的产品，这里只是收集了互联网上面的资源供大家使用，希望大家有条件的话多多支持正版。
-
-另外由于目前最新的激活`2020.2`版本的补丁其实还是使用知了大神的补丁，该补丁能激活到2089年，只是激活方式与以往的方式不同，在安装时添加了安装参数，照目前的情况来看知了大神好像并不会更新补丁，因此该激活方法很可能到`2020.3`就失效，望周知。
-
-# 6 更新日志
+# 5 更新日志
 
 # 2020.10.27
-补丁失效通知。
+更新补丁失效+插件。
 
 # 2020.10.09
 
