@@ -29,7 +29,7 @@
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
-重启`IDE`后可以在`Help->Rest xxxx eval`中重置试用期，点击重置后，再次重启`IDE`可以看到恢复30天试用期的状态：
+重启`IDE`后可以在`Help->Reset xxxx eval`中重置试用期，点击重置后，再次重启`IDE`可以看到恢复30天试用期的状态：
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
