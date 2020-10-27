@@ -8,7 +8,7 @@ Because the `jar` is invalid now, tested on `2020.2.x`.
 
 ## 2.1 plugins
 
-Though `zhile` not update `jetbrains-agent.zip` right now, he maintain a plugins on `gitee.com`, called `ide-eval-resetter`. It can reset the evaluation.
+Though `zhile` not update `jetbrains-agent.zip` right now, he maintain a plugin on `gitee.com`, called `ide-eval-resetter`. It can reset the evaluation.
 
 ## 2.2 How to install 
 
@@ -24,7 +24,7 @@ Choose the `jar`：
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
-Restart the `IDE`, and there is an item called `Reset xxxx eval`, click it and restart again, it will restore 30 days evaluation：
+Restart the `IDE`, and there is an item called `Reset xxxx eval` on `Help` item, click it and restart again, it will restore 30 days evaluation：
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
