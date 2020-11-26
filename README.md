@@ -1,4 +1,4 @@
-[中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
+中文 | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
 
 # 1 这是什么
 
