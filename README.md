@@ -1,5 +1,8 @@
 [中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
 
+# 0 
+2020.11.26因未知原因临时失效，建议暂时不要更新。
+
 # 1 这是什么
 
 `JetBrains`系列IDE的激活补丁。
@@ -68,7 +71,6 @@ HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQ
 # 6 更新日志
 
 # 2020.11.26
-
 因未知原因临时失效，建议暂时不要更新。
 
 # 2020.10.28
