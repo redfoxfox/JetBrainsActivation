@@ -62,7 +62,11 @@ After restarting it is activated successfully:
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
-# 6 Update Log
+# 6 Another Repository
+
+I find another similar repository, if this repository can not crack successfully, please try [it](https://github.com/8pig/jetbrains-crack).
+
+# 7 Update Log
 
 # 11/26/2020
 
