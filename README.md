@@ -67,6 +67,10 @@ HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQ
 
 # 6 更新日志
 
+# 2020.11.26
+
+因未知原因临时失效，建议暂时不要更新。
+
 # 2020.10.28
 更新安装参数以及补丁。
 
