@@ -62,7 +62,11 @@ f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGl
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
-# 6 更新日志
+# 6 其他
+
+偶然发现了另一个激活仓库，若本仓库不能顺利激活，请试一下该仓库，链接[戳这里](https://github.com/8pig/jetbrains-crack)。
+
+# 7 更新日志
 
 # 2020.11.26 再次更新
 
