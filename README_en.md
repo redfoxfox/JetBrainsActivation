@@ -1,3 +1,6 @@
+# 0
+Invalidation for unknown reason on 11/26/2020.
+
 # 1 What's this?
 
 Activating `JetBrains` series IDE with a `jar`.
@@ -63,6 +66,8 @@ After restarting it is activated successfully:
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
 
 # 6 Log
+# Update 11/26/2020
+Temporary invalidation for unknown reason.
 
 # Update 10/28/2020
 Update `jar` and the argument.
