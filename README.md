@@ -1,8 +1,5 @@
 [中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
 
-# 0 
-2020.11.26因未知原因临时失效，建议暂时不要更新。
-
 # 1 这是什么
 
 `JetBrains`系列IDE的激活补丁。
@@ -52,11 +49,9 @@
 ## 5.3 添加参数
 重启后在输入如下参数：
 
-```bash
-HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI
 ```
-```11.26
 f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGlxnDgSV3xC85CGVvWY9SWa+ECeWhJZ1+hitDPCNw5lKaRBnxIKhAfQ3aJl4S5WmrOkfKoIuz3UXVoX7hZGxofqQtzfuc
+```
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
@@ -71,6 +66,9 @@ f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGl
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
 
 # 6 更新日志
+
+# 2020.11.26 再次更新
+感谢`VN_Yang`提交的`PR`，已更新安装参数。
 
 # 2020.11.26
 因未知原因临时失效，建议暂时不要更新。
