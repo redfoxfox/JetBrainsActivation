@@ -70,6 +70,10 @@ f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGl
 
 # 7 更新日志
 
+# 2020.12.08
+
+添加`2020.3`版本的补充说明。
+
 # 2020.11.26 再次更新
 
 感谢`VN_Yang`提交的`PR`，已更新安装参数。
@@ -120,5 +124,3 @@ f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGl
 # 2020.05.27
 
 已更新2020.1.2版本。
-
-
