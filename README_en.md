@@ -28,6 +28,8 @@ The `jar` is from `zhile` and the argument from Internet.
 - Version:`2020.2.3`
 - IDE:`IDEA+WebStorm`
 
+(Notes: Version `2020.3` updated few days ago, the patch also takes effect.)
+
 # 5 How to activate
 
 ## 5.1 Download `jetbrains-agent-latest.zip`
@@ -66,7 +68,11 @@ After restarting it is activated successfully:
 
 I find another similar repository, if this repository can not crack successfully, please try [it](https://github.com/8pig/jetbrains-crack).
 
-# 7 Update Log
+# 7 Log
+
+# 12/08/2020
+
+Add some notes about version `2020.3`.
 
 # 11/26/2020
 
