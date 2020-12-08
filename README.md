@@ -28,6 +28,8 @@
 - 版本：`2020.2.3`
 - `IDE`：`IDEA+WebStorm`
 
+（补充：前几天更新了`2020.3`版本，`IDEA`与`WebStorm`都没有失效）
+
 # 5 激活方法
 
 ## 5.1 下载`jetbrains-agent-latest.zip`
