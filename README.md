@@ -1,4 +1,4 @@
-[中文](https://github.com/2293736867/JetBrainsActivation) | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
+中文 | [English](https://github.com/2293736867/JetBrainsActivation/blob/master/README_en.md)
 
 # 1 这是什么
 
@@ -22,9 +22,13 @@
 
 补丁来源主要是知大的补丁，安装参数从网络上搜集而来。
 
-# 4 支持的版本
+# 4 最新测试
 
-`2020.10.28`最新测试，版本为`2020.2.3`。
+- 日期：`2020.11.26`
+- 版本：`2020.2.3`
+- `IDE`：`IDEA+WebStorm`
+
+（补充：前几天更新了`2020.3`版本，`IDEA`与`WebStorm`都没有失效）
 
 # 5 激活方法
 
@@ -47,12 +51,11 @@
 会显示安装成功。
 
 ## 5.3 添加参数
+
 重启后在输入如下参数：
-
-```bash
-HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI
 ```
-
+f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGlxnDgSV3xC85CGVvWY9SWa+ECeWhJZ1+hitDPCNw5lKaRBnxIKhAfQ3aJl4S5WmrOkfKoIuz3UXVoX7hZGxofqQtzfuc
+```
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
 
 ## 5.4 查看效果
@@ -61,16 +64,30 @@ HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQ
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
-亲测`IDEA 2020.2.3`也生效：
+# 6 其他
 
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
+偶然发现了另一个激活仓库，若本仓库不能顺利激活，请试一下该仓库，链接[戳这里](https://github.com/8pig/jetbrains-crack)。
 
-# 6 更新日志
+# 7 更新日志
+
+# 2020.12.08
+
+添加`2020.3`版本的补充说明。
+
+# 2020.11.26 再次更新
+
+感谢`VN_Yang`提交的`PR`，已更新安装参数。
+
+# 2020.11.26
+
+~~因未知原因临时失效，建议暂时不要更新。~~
 
 # 2020.10.28
+
 更新安装参数以及补丁。
 
 # 2020.10.27
+
 ~~补丁失效通知+临时插件。~~
 
 # 2020.10.09
@@ -82,25 +99,28 @@ HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQ
 更新文档说明。
 
 # 2020.08.29
+
 ~~更新文档，估计需要2021年再更新了。~~
 
-# 2020.08.24 凌晨更新
-~~明天就是七夕了啊，难道我在暗示我是单身的吗？？？~~
+# 2020.08.24 凌晨
 
+~~明天就是七夕了啊，难道我在暗示我是单身的吗？？？~~
 
 ~~这个就当是给程序员们的七夕礼物了2333333333333。~~
 
-# 2020.07.24 更新
+# 2020.07.24
+
 很遗憾由于补丁作者知了在2020年6月不再维护了补丁了，所以2020.1.3（含）以上的版本可能无法激活成功。
 有新的激活方法或补丁本人会及时更新，望周知。
 
-# 2020.07.18 更新
+# 2020.07.18
+
 ~~更新2020.1.3版本。~~
 
-# 2020.06.24 更新
+# 2020.06.24
+
 迁移仓库，更新博客。
 
-# 2020.05.27 更新
+# 2020.05.27
+
 已更新2020.1.2版本。
-
-

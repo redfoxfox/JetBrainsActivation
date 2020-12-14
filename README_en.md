@@ -1,6 +1,8 @@
+[中文](https://github.com/2293736867/JetBrainsActivation/blob/master/README.md) | English
+
 # 1 What's this?
 
-Activating `JetBrains` series IDE with a `jar`.
+`JetBrains` crack.
 
 # 2 Statement
 
@@ -20,11 +22,15 @@ I don't know how to crack the products fo `JetBrains`, and just collect the reso
 
 The `jar` is from `zhile` and the argument from Internet. 
 
-# 4 Supported version
+# 4 Latest test
 
-The latest supported version is `2020.2.3`, tested at `10/28/2020`.
+- Date:`11/26/2020`
+- Version:`2020.2.3`
+- IDE:`IDEA+WebStorm`
 
-# 5 How to avtivate
+(Notes: Version `2020.3` updated few days ago, the patch also takes effect.)
+
+# 5 How to activate
 
 ## 5.1 Download `jetbrains-agent-latest.zip`
 
@@ -47,7 +53,7 @@ Then a project window will occur, drag and drop it to the project window, and it
 After restarting, enter the fllowing arguments:
 
 ```bash
-HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI
+f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGlxnDgSV3xC85CGVvWY9SWa+ECeWhJZ1+hitDPCNw5lKaRBnxIKhAfQ3aJl4S5WmrOkfKoIuz3UXVoX7hZGxofqQtzfuc
 ```
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/3.png)
@@ -58,24 +64,33 @@ After restarting it is activated successfully:
 
 ![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/4.png)
 
-`IDEA 2020.2.3` also takes effect:
+# 6 Another Repository
 
-![](https://github.com/2293736867/JetBrainsActivation/blob/master/img/5.png)
+I find another similar repository, if this repository can not crack successfully, please try [it](https://github.com/8pig/jetbrains-crack).
 
-# 6 Log
+# 7 Log
 
-# Update 10/28/2020
+# 12/08/2020
+
+Add some notes about version `2020.3`.
+
+# 11/26/2020
+
+Thanks `PR` from `VN_Yang`, update install agruments.
+
+# 10/28/2020
+
 Update `jar` and the argument.
 
-# Update 10/27/2020
+# 10/27/2020
 
-- The `jar` is invalid temporarily
-- Add a plugin
+~~The `jar` is invalid temporarily~~
+~~Add a plugin~~
 
-# Update 10/09/2020
+# 10/09/2020
 
-Fix doc.
+Fix `README_en.md`.
 
-# Update 09/02/2020
+# 09/02/2020
 
-Add `README.md`.
+Add `README_en.md`.
